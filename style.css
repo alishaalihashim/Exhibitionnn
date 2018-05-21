@@ -1,0 +1,86 @@
+body{
+	background-color: grey;
+}
+
+
+
+nav .container{
+	margin: 0px;
+	padding: 30px;
+	font-weight: bold;
+	margin-bottom: 20px;
+
+
+}
+
+div .navbar-brand{
+	font-size: 50px;
+}
+
+div > h1,h2,h3,h5, .blue{
+	color: blue;
+	text-align: center;
+	margin: 60px;
+}
+
+div .display-4{
+	font-weight: bold;
+	font-size: 50px;
+	color: black;
+	margin-top: 50px;
+}
+
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.products > .card {
+    margin: 10px 0;
+    width: 18rem;
+}
+
+
+.card-text{
+	text-align: center;
+}
+
+button{
+	margin-left: 60px;
+}
+
+.contact-detail {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+footer > div > p{
+	color:black;
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+
+.pink{
+	background-color: #343a40;
+/*	padding: 40px;*/
+}
+
+.organisers{
+	margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
